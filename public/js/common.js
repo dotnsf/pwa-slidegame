@@ -55,6 +55,7 @@ var slide_settings = {
           });
         },
         error: function( e0, e1, e2 ){
+          alert( "記録に失敗しました。オフライン時には記録はできません。" );
           console.log( e1 + " : " + e2 );
         }
 

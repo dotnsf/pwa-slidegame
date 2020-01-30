@@ -1,7 +1,7 @@
 {
-    "name": "PWA_Sample",
-    "short_name": "PWA_sample",
-    "description": "PWA Sample",
+    "name": "PWA Slidegame",
+    "short_name": "PWA Slidegame",
+    "description": "PWA Slidegame",
     "start_url": "/?utm_source=homescreen&utm_medium=pwa",
     "display": "standalone",
     "lang": "ja",
