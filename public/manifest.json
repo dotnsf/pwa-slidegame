@@ -1,0 +1,25 @@
+{
+    "name": "PWA_Sample",
+    "short_name": "PWA_sample",
+    "description": "PWA Sample",
+    "start_url": "/?utm_source=homescreen&utm_medium=pwa",
+    "display": "standalone",
+    "lang": "ja",
+    "dir": "auto",
+    "orientation": "any",
+    "theme_color": "#bcb782",
+    "background_color": "#fffce0",
+    "icons": [
+        {
+            "src": "/pwa_192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/pwa_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "gcm_sender_id": ""
+}

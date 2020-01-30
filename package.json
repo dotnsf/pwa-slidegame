@@ -1,0 +1,18 @@
+{
+    "name": "pwa-slidegame",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "@cloudant/cloudant": "^3.0.1",
+        "body-parser": "^1.19.0",
+        "cheerio-httpcli": "^0.7.4",
+        "ejs": "^2.6.1",
+        "express": "^4.17.1"
+    },
+    "repository": {},
+    "engines": {
+        "node": "8.x"
+    }
+}
